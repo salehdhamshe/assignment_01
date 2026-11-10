@@ -1,5 +1,5 @@
 using UnityEngine;
-using UnityEngine.InputSystem;   // ← שורה חדשה
+using UnityEngine.InputSystem;  //
 
 
 public class PLAYER_SCREPT : MonoBehaviour
